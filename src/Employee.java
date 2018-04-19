@@ -12,6 +12,7 @@ public class Employee {
 		Employee e = new Employee();
 		Scanner s = new Scanner(System.in);
 		e.name = s.next();
+		
 
 	}
 
