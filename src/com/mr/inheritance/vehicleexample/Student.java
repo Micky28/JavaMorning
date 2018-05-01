@@ -5,8 +5,6 @@ public class Student {
 	String name;
 
 	public Student() {
-		// super();
-		// this(10, "Alpha");
 	}
 
 	public Student(int stno, String name) {
